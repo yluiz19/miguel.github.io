@@ -1,0 +1,110 @@
+.primeira {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    box-shadow: 2px 2px  7px rgba(144, 144, 144, 1);
+    font-size: 14px;
+    padding: 10px;
+
+    
+    
+
+}
+.primeira a {
+    text-decoration: none;
+    font-family: 'regular';
+    color: #000;
+
+    
+}
+
+.primeira button{
+    width: 100px;
+    height: 30px;
+}
+
+
+
+.segunda{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 100px;
+    background-color: #fff;
+    position: absolute;
+    bottom: 100px;
+    margin: 40px;
+    height: 190px;
+    text-align: center;
+    box-shadow: 0px 0px  10px rgba(144, 144, 144, 1)
+}
+
+.segunda p{
+    font-family: 'regular';
+}
+.segunda a{
+    font-family: 'regular';
+}
+
+.segunda h1{
+    font-family: 'bold1';
+}
+
+.container{
+    position: relative;
+    margin: 50px;
+    
+
+}
+
+.quinta{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(238, 238, 238);
+    gap: 30px;
+    margin: 50px;
+}
+
+.quinta p{
+    font-family: 'regular';
+
+
+}
+
+.sexta{
+    display: flex;
+    gap: 50px;
+}
+
+.pesquisa{
+    border-radius: 30px;
+    padding: 15px;
+    gap: 20px;
+    width: 450px;
+    
+}
+
+
+.botao {
+    color: #fff;
+    background-color: #000000;
+}
+
+.botao1{
+    background-color: #fff;
+}
+
+.botao3 button{
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    
+}
+
+.botao3 {
+    background-color: #fff;
+    width: 20px;
+}

@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'bold1';
+    src: url(/public/assets/fonts/SuisseWorks-Bold-v1.woff2);
+}
+
+@font-face {
+    font-family: 'bold2';
+    src: url(/public/assets/fonts/Udemy-Sans-Bold-v1.woff2);
+}
+
+@font-face {
+    font-family: 'regular';
+    src: url(/public/assets/fonts/Udemy-Sans-Regular-v1.woff2);
+}
